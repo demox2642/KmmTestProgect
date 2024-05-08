@@ -1,0 +1,6 @@
+<resources>
+<!--    tabsName-->
+    <string name="task1">task1</string>
+    <string name="task2">task2</string>
+    <string name="task3">task3</string>
+</resources>
